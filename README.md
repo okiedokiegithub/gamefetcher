@@ -1,7 +1,12 @@
 # gamefetcher
 Gamefetcher is an automated python script that fetches torrent links from a website based on a search term.
 
+
+
 # Usage 
+
+**First time:**
+Set the "URL" as <https://pastebin.com/itVMSJBg> and save.
 
 **Option 1:**
 Open gamefetcher.py using cmd.
