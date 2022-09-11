@@ -20,7 +20,7 @@ Occasionally defender will detect these as a virus, they are not. Something or a
 You can do whatever you want with this thing I made in a few hours. I don't care. If you manage to get a virus or something dosen't work. I don't care.
 
 # Stuff:
-**- discord/okiedokie#1063**  
+- **discord/okiedokie#1063**  
 - **github/okiedokiegithub**  
 - **btc/31quHvzJhA4kVJJNn7a5EPXsL6q9sXPsqm**  
   
